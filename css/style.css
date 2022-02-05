@@ -1,0 +1,11 @@
+@font-face {
+   font-family: Merriweather ;
+   src: url(../fonts/Festive-Regular.ttf);
+}
+* {
+   font-family: Festive-Regular;
+}
+.my-font {
+   font-family: 'Abril Fatface', cursive;
+   font-size: 30px;
+}
