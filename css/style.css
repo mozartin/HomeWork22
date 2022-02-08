@@ -49,10 +49,12 @@
 
 .p1:hover {
    background-image: url(../icons/fb.png);
+   cursor: pointer;
 }
 .p2:hover {
    background-image: url(../icons/insta.png);
+   cursor: pointer;
 }
 .p3:hover {
-   background-image: url(../icons/youtube.png);
+   background-image: url(../icons/youtube.png);   cursor: pointer;
 }
