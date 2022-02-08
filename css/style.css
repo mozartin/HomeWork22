@@ -13,5 +13,46 @@
    text-decoration: none;
 }
 .my-bg-light {
-   background-color: rgb(202, 202, 202);
+   background-color: rgb(226, 226, 226);
+}
+
+
+
+
+.p1 {
+   width: 35px;
+   height: 35px;
+   background-image: url(../icons/fb_gray.png);
+   background-size: cover;
+   background-repeat: no-repeat;
+   transition: background-image 1s;
+   
+}
+.p2{
+   width: 35px;
+   height: 35px;
+   background-image: url(../icons/insta_gray.png);
+   background-size: cover;
+   background-repeat: no-repeat;
+   transition: background-image 1s;
+   
+}
+.p3{
+   width: 35px;
+   height: 35px;
+   background-image: url(../icons/youtube_gray.png);
+   background-size: cover;
+   background-repeat: no-repeat;
+   transition: background-image 1s;
+   
+}
+
+.p1:hover {
+   background-image: url(../icons/fb.png);
+}
+.p2:hover {
+   background-image: url(../icons/insta.png);
+}
+.p3:hover {
+   background-image: url(../icons/youtube.png);
 }
